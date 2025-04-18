@@ -70,10 +70,3 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kanna-vamshi-krishna-datascience)  
 Visit my portfolio: [GitHub](https://github.com/kanna-vamshi-krishna)
-
----
-
-## 🔖 Hashtags for Sharing
-
-#DataScience #MachineLearning #CoralReefs #EnvironmentalData  
-#Python #RealWorldProjects #Portfolio #KannaVamshiKrishna
