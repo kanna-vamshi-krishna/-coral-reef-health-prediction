@@ -1,5 +1,3 @@
-# -coral-reef-health-prediction
-Analyzing and predicting coral reef health in the Florida Keys using ecological data and machine learning. Submitted for the Lunor AI Coral Reef Health Challenge.
 # 🌊 Coral Reef Health & Conservation – Data Science Project
 
 **Author:** Kanna Vamshi Krishna  
@@ -15,7 +13,7 @@ The key focus was to:
 - Analyze environmental factors affecting coral reef health.
 - Predict coral growth decline under simulated environmental stress (e.g., rising temperatures, macroalgae growth).
 
-Due to system memory limitations, a **random sample of 100,000 rows** was used to perform efficient analysis and modeling.
+Due to system memory limitations, only a **random sample of 100,000 rows** was used from the merged datasets to ensure efficient analysis and modeling.
 
 ---
 
@@ -60,6 +58,11 @@ Due to system memory limitations, a **random sample of 100,000 rows** was used t
 
 - `coral_reef_challenge_kanna_vamshi_krishna_code_file.ipynb`: Full Jupyter notebook
 - `Coral Reef_Health_and_Conservation_Report_kanna_vamshi_krishna.pdf`: Final PDF report
+- `CREMP_Pcover_2023_TaxaGroups.csv`: Dataset containing taxonomic group cover data for coral reefs.
+- `CREMP_Pcover_2023_StonyCoralSpecies.csv`: Dataset with data on stony coral species in the Florida Keys.
+- `CREMP_SCOR_RawData_2023.csv`: Raw ecological data for coral reef surveys.
+- `CREMP_SCOR_Summaries_2023_ConditionCounts.csv`: Summarized data on coral conditions and counts.
+- `CREMP_Temperatures_2023.csv`: Temperature data related to the coral reef environment.
 
 ---
 
