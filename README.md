@@ -37,34 +37,41 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 
 ---
 
-## 📊 Visual Insights (Objectives)
+## 🎯 Objective-wise Visual Analysis
 
-### Objective 1 – Spatial Distribution of Species
-![Objective 1](lunor_ai_graphs/objective_1.png)
+### ✅ Objective 1 – Long-term Trends in Coral Cover & Species Richness
 
----
+**Coral Cover Over Years**
+![Long-term Coral Cover Trends](lunor_ai_graphs/obj1.png)
 
-### Objective 2 – Mortality vs. Coral Height
-![Objective 2](lunor_ai_graphs/objective_2.png)
-
----
-
-### Objective 3 – Benthic Composition Over Time
-![Objective 3](lunor_ai_graphs/objective_3.png)
+**Species Richness Over Years**
+![Species Richness Trends](lunor_ai_graphs/obj8.png)
 
 ---
 
-### Objective 4 – Habitat-based Species Trends
-![Objective 4](lunor_ai_graphs/objective_4.png)
+### ✅ Objective 2 – Net Changes in Reef Parameters Sanctuary-wide
+
+![Net Reef Parameter Changes](lunor_ai_graphs/obj13.png)
 
 ---
 
-### Objective 5 – Environmental Impact on Coral Health
-![Objective 5](lunor_ai_graphs/objective_5.png)
+### ✅ Objective 3 – Localized vs Broad-Scale Ecosystem Changes
+
+**Stony Coral Trends: Subregions vs Sanctuary**
+![Subregion vs Sanctuary Coral Trends](lunor_ai_graphs/obj15.png)
 
 ---
 
-## 🧪 Scenario Simulations
+### ✅ Objective 4 – Correlations Impacting Coral Health & Biodiversity
+
+**Correlation Heatmap: Environmental Factors vs Coral Metrics**
+![Correlation Heatmap 1](lunor_ai_graphs/obj16.png)  
+![Correlation Heatmap 2](lunor_ai_graphs/obj17.png)  
+![Correlation Heatmap 3](lunor_ai_graphs/obj18.png)
+
+---
+
+### ✅ Objective 5 – Future Scenario Modeling (Stress Simulations)
 
 | Scenario | Change Applied | Result (∆ in Coral Diameter) |
 |----------|----------------|------------------------------|
@@ -90,7 +97,6 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 - `CREMP_SCOR_RawData_2023.csv`: Raw ecological data for coral reef surveys.
 - `CREMP_SCOR_Summaries_2023_ConditionCounts.csv`: Summarized data on coral conditions and counts.
 - `CREMP_Temperatures_2023.csv`: Temperature data related to the coral reef environment.
-- `lunor_ai_graphs/`: Folder containing key visualizations from each objective.
 
 ---
 
