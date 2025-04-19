@@ -42,32 +42,33 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 ### ✅ Objective 1 – Long-term Trends in Coral Cover & Species Richness
 
 **Coral Cover Over Years**
-![Long-term Coral Cover Trends](lunor_ai_graphs/obj1.png)
+![Long-term Coral Cover Trends](lunor_ai_graphs/objective_1.png)
 
 **Species Richness Over Years**
-![Species Richness Trends](lunor_ai_graphs/obj8.png)
+![Species Richness Trends](lunor_ai_graphs/objective_8.png)
 
 ---
 
 ### ✅ Objective 2 – Net Changes in Reef Parameters Sanctuary-wide
 
-![Net Reef Parameter Changes](lunor_ai_graphs/obj13.png)
+![Net Reef Parameter Changes](lunor_ai_graphs/objective_13.png)
 
 ---
 
 ### ✅ Objective 3 – Localized vs Broad-Scale Ecosystem Changes
 
 **Stony Coral Trends: Subregions vs Sanctuary**
-![Subregion vs Sanctuary Coral Trends](lunor_ai_graphs/obj15.png)
+![Subregion vs Sanctuary Coral Trends](lunor_ai_graphs/objective_15.png)
 
 ---
 
 ### ✅ Objective 4 – Correlations Impacting Coral Health & Biodiversity
 
 **Correlation Heatmap: Environmental Factors vs Coral Metrics**
-![Correlation Heatmap 1](lunor_ai_graphs/obj16.png)  
-![Correlation Heatmap 2](lunor_ai_graphs/obj17.png)  
-![Correlation Heatmap 3](lunor_ai_graphs/obj18.png)
+![Correlation Heatmap 1](lunor_ai_graphs/objective_16.png)  
+![Correlation Heatmap 2](lunor_ai_graphs/objective_17.png)  
+![Correlation Heatmap 3](lunor_ai_graphs/objective_
+18.png)
 
 ---
 
