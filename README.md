@@ -139,6 +139,23 @@ To observe **seasonality and trends**, time series decomposition was applied to 
 
 ---
 
+## 🚨 Dataset Information
+
+Due to GitHub's file size limitations, the file `CREMP_Temperatures_2023.csv` (approximately 445 MB) is **not included** in this repository.
+
+You can download the temperature dataset manually from the following link:
+
+🔗 [Download CREMP_Temperatures_2023.csv](https://drive.google.com/file/d/1e7CHW34vfeYzLAwCLCQR9QGQaEaGuj88/view?usp=sharing)
+
+### How to Use the Dataset
+1. Download the dataset from the link provided above.
+2. After downloading, place the `CREMP_Temperatures_2023.csv` file in the root directory of this project.
+
+
+
+---
+
+
 ## 📬 Connect with Me
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kanna-vamshi-krishna-datascience)  
