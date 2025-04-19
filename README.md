@@ -37,6 +37,33 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 
 ---
 
+## 📊 Visual Insights (Objectives)
+
+### Objective 1 – Spatial Distribution of Species
+![Objective 1](lunor_ai_graphs/objective_1.png)
+
+---
+
+### Objective 2 – Mortality vs. Coral Height
+![Objective 2](lunor_ai_graphs/objective_2.png)
+
+---
+
+### Objective 3 – Benthic Composition Over Time
+![Objective 3](lunor_ai_graphs/objective_3.png)
+
+---
+
+### Objective 4 – Habitat-based Species Trends
+![Objective 4](lunor_ai_graphs/objective_4.png)
+
+---
+
+### Objective 5 – Environmental Impact on Coral Health
+![Objective 5](lunor_ai_graphs/objective_5.png)
+
+---
+
 ## 🧪 Scenario Simulations
 
 | Scenario | Change Applied | Result (∆ in Coral Diameter) |
@@ -63,6 +90,7 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 - `CREMP_SCOR_RawData_2023.csv`: Raw ecological data for coral reef surveys.
 - `CREMP_SCOR_Summaries_2023_ConditionCounts.csv`: Summarized data on coral conditions and counts.
 - `CREMP_Temperatures_2023.csv`: Temperature data related to the coral reef environment.
+- `lunor_ai_graphs/`: Folder containing key visualizations from each objective.
 
 ---
 
