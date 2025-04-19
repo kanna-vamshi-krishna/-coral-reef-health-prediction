@@ -17,6 +17,17 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 
 ---
 
+
+## 🎯 Project Objectives
+
+1. Determine **long-term trends** in stony coral percent cover and species richness.
+2. Evaluate **net changes** in reef community parameters sanctuary-wide.
+3. Identify **localized variations vs. broad-scale ecosystem changes**.
+4. Examine **correlations** and environmental relationships impacting coral health and biodiversity.
+5. Model **future scenarios** to anticipate and mitigate potential declines in coral communities.
+
+---
+
 ## 🛠️ Tools & Techniques Used
 
 - Python, Pandas, NumPy
@@ -81,6 +92,15 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 
 ---
 
+## 🔍 Time Series Decomposition
+
+To observe **seasonality and trends**, time series decomposition was applied to average coral parameters across years.
+
+- **Trend component** showed a **slow decline** in stony coral cover.
+- No clear **seasonality** observed, as data is annual.
+
+---
+
 ## 🔍 Key Learnings
 
 - Real-world ecological data often lacks strong linear relationships
@@ -88,6 +108,24 @@ Due to system memory limitations, only a **random sample of 100,000 rows** was u
 - Handling memory and performance constraints is a critical data science skill
 
 ---
+
+## 💡 Key Challenges Faced
+
+- **Dataset volume** and memory constraints were tackled via sampling.
+- **Multisource data integration** required careful key selection and joins.
+- **Weak model performance** highlighted the limitations of using only structured features for ecological predictions.
+
+---
+
+
+## 💼 Project Learnings
+
+- Real-world ecological data demands **multi-disciplinary thinking**.
+- Importance of **ecological domain knowledge** in interpreting weak model scores.
+- Emphasis on **storytelling** and structured exploration, even when model outcomes are limited.
+
+---
+
 
 ## 📂 Files Included
 
